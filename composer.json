@@ -1,0 +1,13 @@
+{
+    "name": "vangarde/base",
+    "description": "Vangarde TMS Base Package",
+    "type": "composer-plugin",
+    "autoload": {
+        "psr-4": {
+            "Vangarde\\Base\\": "src/"
+        }
+    },
+    "license": "proprietary",
+    "minimum-stability": "dev",
+    "require": {}
+}
